@@ -1,0 +1,79 @@
+.container {
+  text-align: center;
+}
+
+.image {
+  position: relative;
+  padding: 1rem;
+  text-align: center;
+}
+
+#title {
+  text-align: center;
+  padding: 5px;
+}
+
+.start-button {
+  height: 50px;
+  width: 200px;
+  background-color: darkblue;
+  color: snow;
+  font-size: 25px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.options {
+  height: 45px;
+  width: 175px;
+  background-color: darkblue;
+  color:snow;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+#timer {
+  padding: 5px;
+  font-style: bolder;
+  font-size: large;
+}
+
+#seconds {
+  font-size: 40px;
+}
+
+.rules {
+  padding: 5px;
+  font-size: x-large;
+  font-style: italic;
+}
+
+#wrong {
+  text-decoration: underline;
+}
+
+#next-button {
+  height: 45px;
+  width: 175px;
+  background-color: darkblue;
+  color:snow;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+#submit-button {
+  height: 45px;
+  width: 175px;
+  background-color: darkblue;
+  color:snow;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+#score {
+  text-align: right;
+  margin: 90px;
+}
